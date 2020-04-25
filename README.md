@@ -1,1 +1,2 @@
-# What-I-Know-Is
+# Initial page
+
